@@ -29,7 +29,7 @@ Repository ini dibuat khusus untuk:
 
 ## 🛠️ Tools & Teknologi
 
-- **Bahasa Pemrograman** : html, css, js, php
+- **Bahasa Pemrograman** : html, css, php, js
 - **Version Control** : Git & GitHub
 
 ---
